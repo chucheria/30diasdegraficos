@@ -14,3 +14,10 @@ Siguiendo el [reto de ciencia de datos](https://github.com/cienciadedatos/datos-
 - Datos: [Obesity percentage in the World](https://www.kaggle.com/amanarora/obesity-among-adults-by-country-19752016/)
 
 ![](figures/day_2.png)
+
+
+## Día 3: Puntos
+
+- Datos: [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey)
+
+![](figures/day_3.png)
