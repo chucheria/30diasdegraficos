@@ -7,7 +7,7 @@ options(scipen=999)
 
 ### CONSTANTS
 DATA_FOLDER <- here::here('data')
-FILE <- 'SO_survey_results_public.csv'
+FILE <- 'SO_survey_results_public_2019.csv'
 FIGURES_FOLDER <- here::here('figures')
 FIGURE <- 'day_3.png'
 
